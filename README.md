@@ -6,7 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielroo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielroo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-g4brielroo.github.io-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://g4brielroo.github.io/g4briel-portfolio/)
-[![Nexity](https://img.shields.io/badge/Empresa-Nexity-FF6B35?style=for-the-badge&logo=briefcase&logoColor=white)](https://nexity.com.br)
+[![Nexity](https://img.shields.io/badge/Projeto-Nexity-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://nexity.com.br)
+[![Syze Studio](https://img.shields.io/badge/FiveM-Syze_Studio-1E90FF?style=for-the-badge&logo=fivem&logoColor=white)](https://github.com/g4brielroo)
 
 </div>
 
@@ -14,7 +15,9 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor de software com experiência prática em automação de processos, análise de dados, desenvolvimento web e integração de sistemas. Atuo na **Nexity (Syze Studio)**, onde trabalho com soluções que vão desde scripts de automação em Python até desenvolvimento front-end moderno com React.
+Desenvolvedor de software com experiência prática em automação de processos, análise de dados, desenvolvimento web e integração de sistemas.
+
+Estou construindo a **[Nexity](https://nexity.com.br)** — meu projeto pessoal com o qual pretendo abrir uma empresa. Paralelamente, atuo no **Syze Studio**, um servidor de FiveM onde desenvolvo soluções e scripts para a comunidade.
 
 Sou apaixonado por transformar problemas complexos em soluções elegantes e eficientes. Gosto de código limpo, bem estruturado e fácil de manter.
 
@@ -22,7 +25,8 @@ Sou apaixonado por transformar problemas complexos em soluções elegantes e efi
 gabriel = {
     "nome": "Gabriel Rodrigues de Oliveira",
     "localização": "Brasil 🇧🇷",
-    "empresa": "Nexity (Syze Studio)",
+    "projeto_pessoal": "Nexity — futura empresa 🚀",
+    "comunidade": "Syze Studio (servidor FiveM) 🎮",
     "foco_atual": ["Automação de Processos", "Desenvolvimento Web", "Análise de Dados"],
     "linguagens_favoritas": ["Python", "JavaScript", "SQL", "Java", "C++"],
     "sempre_aprendendo": True
@@ -82,8 +86,10 @@ Projeto em grupo da faculdade — sistema de login com navegação entre telas, 
 - 📊 **Análise de Dados** — Manipulação de dados com Pandas, identificação de inconsistências e geração de relatórios estruturados
 - 🌐 **Desenvolvimento Web** — Interfaces modernas com React, Vite e Tailwind CSS
 - 🗃️ **SQL Server** — Queries otimizadas, reports e filtros avançados em sistemas ERP
-- 🤖 **Discord Bots** — Desenvolvimento de bots com sistemas de moderação, comandos ricos em embeds e UX intuitiva
+- 🎮 **FiveM / Syze Studio** — Desenvolvimento de scripts e soluções para servidor de FiveM
+- 🤖 **Discord Bots** — Bots com sistemas de moderação, comandos ricos em embeds e UX intuitiva
 - 🏷️ **Reports & ERP** — Customização de relatórios e etiquetas em sistemas de gestão empresarial
+- 🚀 **Nexity** — Construindo meu projeto pessoal para um dia virar empresa
 
 ---
 
