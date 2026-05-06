@@ -25,8 +25,7 @@ Sou apaixonado por transformar problemas complexos em soluções elegantes e efi
 gabriel = {
     "nome": "Gabriel Rodrigues de Oliveira",
     "localização": "Brasil 🇧🇷",
-    "projeto_pessoal": "Nexity — futura empresa 🚀",
-    "comunidade": "Syze Studio (servidor FiveM) 🎮",
+    "projeto_pessoal": "Nexity",
     "foco_atual": ["Automação de Processos", "Desenvolvimento Web", "Análise de Dados"],
     "linguagens_favoritas": ["Python", "JavaScript", "SQL", "Java", "C++"],
     "sempre_aprendendo": True
