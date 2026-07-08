@@ -17,8 +17,6 @@
 
 Desenvolvedor de software com experiência prática em automação de processos, análise de dados, desenvolvimento web e integração de sistemas.
 
-Estou construindo a **[Nexity](https://nexity.com.br)** — meu projeto pessoal com o qual pretendo abrir uma empresa. Paralelamente, atuo no **Syze Studio**, um servidor de FiveM onde desenvolvo soluções e scripts para a comunidade.
-
 Sou apaixonado por transformar problemas complexos em soluções elegantes e eficientes. Gosto de código limpo, bem estruturado e fácil de manter.
 
 ```python
@@ -60,15 +58,6 @@ gabriel = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📌 Projetos em Destaque
-
-### 🌐 [g4briel-portfolio](https://github.com/g4brielroo/g4briel-portfolio)
-Portfólio pessoal moderno desenvolvido com **React + Vite + Tailwind CSS**, com design minimalista, animações suaves e responsividade total. Hospedado via **GitHub Pages**.
-
-> **Stack:** React · Vite · Tailwind CSS · JavaScript
 
 ---
 
