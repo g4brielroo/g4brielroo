@@ -23,7 +23,6 @@ Sou apaixonado por transformar problemas complexos em soluções elegantes e efi
 gabriel = {
     "nome": "Gabriel Rodrigues de Oliveira",
     "localização": "Brasil 🇧🇷",
-    "projeto_pessoal": "Nexity",
     "foco_atual": ["Automação de Processos", "Desenvolvimento Web", "Análise de Dados"],
     "linguagens_favoritas": ["Python", "JavaScript", "SQL", "Java", "C++"],
     "sempre_aprendendo": True
@@ -74,10 +73,8 @@ Projeto em grupo da faculdade — sistema de login com navegação entre telas, 
 - 📊 **Análise de Dados** — Manipulação de dados com Pandas, identificação de inconsistências e geração de relatórios estruturados
 - 🌐 **Desenvolvimento Web** — Interfaces modernas com React, Vite e Tailwind CSS
 - 🗃️ **SQL Server** — Queries otimizadas, reports e filtros avançados em sistemas ERP
-- 🎮 **FiveM / Syze Studio** — Desenvolvimento de scripts e soluções para servidor de FiveM
-- 🤖 **Discord Bots** — Bots com sistemas de moderação, comandos ricos em embeds e UX intuitiva
+- 🎮 **FiveM** — Desenvolvimento de scripts e soluções para servidor de FiveM
 - 🏷️ **Reports & ERP** — Customização de relatórios e etiquetas em sistemas de gestão empresarial
-- 🚀 **Nexity** — Construindo meu projeto pessoal para um dia virar empresa
 
 ---
 
