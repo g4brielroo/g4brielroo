@@ -5,9 +5,6 @@
 **Desenvolvedor de Software · Analista de Sistemas · Brasil 🇧🇷**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielroo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielroo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-g4brielroo.github.io-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://g4brielroo.github.io/g4briel-portfolio/)
-[![Nexity](https://img.shields.io/badge/Projeto-Nexity-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://nexity.com.br)
-[![Syze Studio](https://img.shields.io/badge/FiveM-Syze_Studio-1E90FF?style=for-the-badge&logo=fivem&logoColor=white)](https://github.com/g4brielroo)
 
 </div>
 
